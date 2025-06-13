@@ -1,11 +1,8 @@
-#  Amica – Your Dearest One 💬
+#  Amica – Your Dearest One 
 
 **Amica** is an emotionally aware, AI-powered chatbot that speaks like your dearest friend. It blends factual intelligence with a personalized touch, making conversations feel like they're with someone who truly understands you.
 
 This project is inspired by the idea that sometimes, we just need *that one person* to talk to—who gets our tone, our mood, and our madness. Amica tries to be that person.
-
-<br> <br>
-
 
 ---
 
@@ -18,10 +15,3 @@ This project is inspired by the idea that sometimes, we just need *that one pers
 -  **Semantic Search**: Retrieves contextually similar messages using FAISS + Sentence Transformers.
 
 ---
-
-## 🚀 Getting Started
-
-### 🔧 Installation
-
-```bash
-pip install sentence-transformers faiss-cpu transformers duckduckgo-search
